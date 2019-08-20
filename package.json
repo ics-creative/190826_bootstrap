@@ -1,0 +1,11 @@
+{
+  "name": "190819_bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://ics-kano@github.com/ics-creative/190819_bootstrap.git",
+  "author": "ics-kano <takeshi.kano@ics-web.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
